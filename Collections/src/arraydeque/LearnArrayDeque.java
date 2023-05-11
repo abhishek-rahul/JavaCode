@@ -27,7 +27,7 @@ public class LearnArrayDeque {
 
         System.out.println(adq.pollLast());
         System.out.println("pollLast() " +adq);
-
+        
     }
 
 }
